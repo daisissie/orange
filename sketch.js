@@ -7,7 +7,7 @@ let filterEnabled = false;
 
 function preload() {
   // Load the orange image
-  orangeImg = loadImage('orange.png');  // Replace with the path to your orange image
+  orangeImg = loadImage("C:\Users\daiyu\Desktop\orange.png");  // Replace with the path to your orange image
 }
 
 function setup() {
